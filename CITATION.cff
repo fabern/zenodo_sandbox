@@ -9,6 +9,7 @@ repository: 'http://dx.doi.org/10.32614/CRAN.package.rsofun'
 repository-code: 'https://github.com/fabern/zenodo_sandbox'
 repository-artifact: 'https://doi.org/10.5281/zenodo.3712928'
 doi: 10.5281/zenodo.3712928
+authors:
 - affiliation: University Bern
   family-names: Stocker
   given-names: Benjamin David

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+authors:
+- affiliation: "Universit\xE4t Bern"
+  family-names: Bernhard
+  given-names: Fabian
+  orcid: 0000-0003-0338-0961
+type: software
+abstract: '<p>This is the abstract as stored in the <code>CITATION.cff</code> file. Further note that the file currently does not state: <code>title: 'fabern/zenodo_sandbox: v0.0.1' version: v0.0.1 date-released: '2025-11-13' repository-code: https://github.com/fabern/zenodo_sandbox/tree/v0.0.1</code> since we would like this to be automatically filled upon release to zenodo.</p>
+
+
+
+
+
+

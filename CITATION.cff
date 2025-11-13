@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-title: zenodo_sandbox
+title: geco-bern/rsofun
 type: software
 license: GPL-3.0-only
 repository: 'http://dx.doi.org/10.32614/CRAN.package.rsofun'
